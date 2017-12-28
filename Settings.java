@@ -6,6 +6,9 @@ package org.processmining.plugins.cnmining;
  */
 public class Settings
 {
+	/**
+	* public
+	*/
 	public String constraintsFilename = "";
 	public boolean constraintsEnabled;
 	public double sigmaLogNoise;
