@@ -9,6 +9,9 @@ public class RTTedge {
     private static int idCounter = 0;
 
     private RTTnode beginNode, endNode;
+    /**
+    * public 
+    */
     public String id;
     public String name;
 
