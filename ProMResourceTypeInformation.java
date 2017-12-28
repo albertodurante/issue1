@@ -38,13 +38,28 @@ public class ProMResourceTypeInformation {
 
 class ResourceTypeInfo implements Author {
        /**
-       *
+       * public
        */
 	public String affiliation;
+	/**
+     * public 
+     */
 	public String email;
+	/**
+     * public 
+     */
 	public String author;
+	/**
+     * public 
+     */
 	public String website;
+	/**
+     * public 
+     */
 	public String icon;
+	/**
+     * public 
+     */
 	public String typename;
 
 	public ResourceTypeInfo(String typename, String affiliation, String email, String author, String website,
