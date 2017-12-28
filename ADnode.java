@@ -10,12 +10,20 @@ public class ADnode {
    * public static
    */
     public static final String JoinNode = "JoinNode";
-    public static final String ForkNode = "ForkNode";
+  /**
+     * public 
+     */  
+   public static final String ForkNode = "ForkNode";
     public static final String BranchNode = "BranchNode";
-    public static final String Node = "Node";
+   /**
+     * public 
+     */
+   public static final String Node = "Node";
     public static final String InitialNode = "InitialNode";
     public static final String FinalNode = "FinalNode";
-
+/**
+     * public 
+     */
     public String name;
     public String id;
     private String type;
