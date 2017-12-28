@@ -75,6 +75,9 @@ import org.xmlpull.v1.XmlPullParserFactory;
  * @author Utente
  */
 public class CNMining {
+    /**
+    * public static
+    */
     public static final String attivita_iniziale = "_START_";
     public static final String attivita_finale = "_END_";
 
