@@ -6,6 +6,9 @@ package org.processmining.models.cnet2ad;
  */
 public class ADnode {
 
+   /**
+   * public static
+   */
     public static final String JoinNode = "JoinNode";
     public static final String ForkNode = "ForkNode";
     public static final String BranchNode = "BranchNode";
