@@ -13,6 +13,9 @@ public class ADedge {
    * public string
    */
     public String id;
+    /**
+    *
+    */
     public String name;
 
     public ADedge(ADnode start, ADnode end){
