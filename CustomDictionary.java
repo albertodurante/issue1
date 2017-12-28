@@ -10,6 +10,9 @@ import java.util.ArrayList;
  */
 public class CustomDictionary<T, V> {
 
+    /**
+    * public
+    */
     public ArrayList<T> keys;
     public ArrayList<V> values;
     
