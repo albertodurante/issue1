@@ -10,12 +10,33 @@ public class Settings
 	* public
 	*/
 	public String constraintsFilename = "";
+	/**
+     * public 
+     */
 	public boolean constraintsEnabled;
+	/**
+     * public 
+     */
 	public double sigmaLogNoise;
+	/**
+     * public 
+     */
 	public double fallFactor;
+	/**
+     * public 
+     */
 	public String logName;
+	/**
+     * public 
+     */
 	public double relativeToBest;
+	/**
+     * public 
+     */
 	public double sigmaUpCsDiff;
+	/**
+     * public 
+     */
 	public double sigmaLowCsConstrEdges;
 	
 	
