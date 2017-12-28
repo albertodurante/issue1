@@ -8,6 +8,9 @@ import java.util.ArrayList;
  */
 public class RTTnode {
 
+    /**
+    * public static
+    */
     public static final String JoinNode = "JoinNode";
     public static final String ForkNode = "ForkNode";
     public static final String BranchNode = "BranchNode";
