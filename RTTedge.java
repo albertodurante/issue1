@@ -13,6 +13,9 @@ public class RTTedge {
     * public 
     */
     public String id;
+    /**
+     * public 
+     */
     public String name;
 
     public RTTedge(RTTnode start, RTTnode end){
