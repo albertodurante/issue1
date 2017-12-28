@@ -15,13 +15,37 @@ public class WeightEstimator {
     * public
     */
     public static final boolean NORMALIZE_BY_ROW_MAX = false;
+    /**
+     * public 
+     */
     public static final boolean NON_NEGATIVE_WEIGHTS = false;
+    /**
+     * public 
+     */
     public static final boolean CLOSEST_OCCURRENCE_ONLY = false;
+    /**
+     * public 
+     */
     public static final int STRATEGY__TASK_PAIRS = 0;
+    /**
+     * public 
+     */
     public static final int STRATEGY__TASK_PAIRS_NORMALIZED_BY_COUNTS = 1;
+    /**
+     * public 
+     */
     public static final int STRATEGY__PER_TRACE = 2;
+    /**
+     * public 
+     */
     public static final int DEFAULT_MAX_GAP = -1;
+    /**
+     * public 
+     */
     public static final double DEFAULT_FALL_FACTOR = 0.2D;
+    /**
+     * public 
+     */
     public static final int DEFAULT_ESTIMATION_STRATEGY = 2;
 
     public static void printMatrix(double[][] matrix) {
