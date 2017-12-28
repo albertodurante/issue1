@@ -14,6 +14,9 @@ public class CustomDictionary<T, V> {
     * public
     */
     public ArrayList<T> keys;
+    /**
+     * public 
+     */
     public ArrayList<V> values;
     
     public CustomDictionary(){
