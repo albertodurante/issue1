@@ -36,7 +36,13 @@ public class CNMiningDiagram {
 	* public
 	*/
 	public StartTaskNodesSet startTaskNodes;
+	/**
+     * public 
+     */
 	public EndTaskNodesSet endTaskNodes;
+	/**
+     * public 
+     */
 	public CausalNetAnnotations annotations;
 	
 	public CNMiningDiagram(Graph folded_g){		
