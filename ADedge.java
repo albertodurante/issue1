@@ -14,7 +14,7 @@ public class ADedge {
    */
     public String id;
     /**
-    *
+    * public 
     */
     public String name;
 
