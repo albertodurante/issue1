@@ -18,6 +18,9 @@ public class ConstraintsManager {
     public ObjectArrayList<Forbidden> 
     	forbidden, 
     	forbiddenUnfolded;
+    /**
+     * public 
+     */
     public ObjectArrayList<Constraint>	
     	positivi, 
     	negati, 
