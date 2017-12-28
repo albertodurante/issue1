@@ -9,6 +9,9 @@ public class ADedge {
     private static int idCounter = 0;
 
     private ADnode beginNode, endNode;
+   /**
+   * public string
+   */
     public String id;
     public String name;
 
