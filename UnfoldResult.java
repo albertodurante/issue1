@@ -13,7 +13,13 @@ public class UnfoldResult {
 	* public
 	*/
 	public ObjectIntOpenHashMap<String> map;
-	public ObjectObjectOpenHashMap<String, ObjectArrayList<String>> attivita_tracce;	    
+	/**
+     * public 
+     */
+	public ObjectObjectOpenHashMap<String, ObjectArrayList<String>> attivita_tracce;
+	/**
+     * public 
+     */
 	public ObjectObjectOpenHashMap<String, ObjectArrayList<String>> traccia_attivita;		
 	
 	public UnfoldResult(){
