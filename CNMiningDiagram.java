@@ -32,6 +32,9 @@ public class CNMiningDiagram {
 	private Graph grafo;
 	private Flex flexDiagram;
 	private String xmlContent;
+	/**
+	* public
+	*/
 	public StartTaskNodesSet startTaskNodes;
 	public EndTaskNodesSet endTaskNodes;
 	public CausalNetAnnotations annotations;
