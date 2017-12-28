@@ -79,8 +79,13 @@ public class CNMining {
     * public static
     */
     public static final String attivita_iniziale = "_START_";
+   /**
+     * public 
+     */
     public static final String attivita_finale = "_END_";
-
+/**
+     * public 
+     */
     public static long time  = 0;
 
     @Plugin(
