@@ -10,7 +10,9 @@ import java.util.List;
  * @author dfahland
  */
 public class AllStandardScriptTests {
-	
+	/**
+	*
+	*/
 	public static final String TESTSCRIPT_FILE_EXTENSION = "txt";
 
 	/**
