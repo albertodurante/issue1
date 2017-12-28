@@ -9,7 +9,9 @@ import java.util.ArrayList;
  * @param <V> 
  */
 public class CustomDictionary<T, V> {
-
+    /**
+    * public
+    */
     public ArrayList<T> keys;
     public ArrayList<V> values;
 
